@@ -1,4 +1,4 @@
-package main
+package mainzort
 
 type IComponent interface {
 	init()
